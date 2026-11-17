@@ -40,3 +40,9 @@ The Power BI dashboard file and supporting project materials will be added to th
 Pallavi Mali
 
 **Skills:** Power BI | SQL | PL/SQL | Data Analytics
+
+
+## Project Demo
+
+Watch the dashboard demonstration: [View Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
+
