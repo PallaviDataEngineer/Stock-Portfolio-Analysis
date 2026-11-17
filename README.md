@@ -44,5 +44,5 @@ Pallavi Mali
 
 ## Project Demo
 
-[Watch / Download Power BI Dashboard Demo](./Stock_Portfolio_Dashboard_Demo_Compressed.mp4)
+[▶ Watch Dashboard Demo](./Stock_Portfolio_Dashboard_Demo_Compressed.mp4)
 
