@@ -3,6 +3,10 @@
 ## Project Overview
 An interactive Stock Portfolio Performance & Analysis Dashboard developed using Microsoft Power BI to analyse investment performance, portfolio allocation, sector-wise investments and individual stock contributions.
 
+## Dashboard Preview
+
+![Stock Portfolio Dashboard](Stock%20Portfolio%20Dashboard%20Image.png)
+
 ## Dashboard Features
 - Total Investment
 - Current Portfolio Value
